@@ -56,7 +56,3 @@ Progress is checkpointed to `results/mllm_results_progress.xlsx` every 5 images.
 ## Prompt
 
 The full prompt used is documented in the manuscript's Supplementary Materials. See `vlm_polyp_size_estimation.py` (`PROMPT` variable) for the exact text used at inference time.
-
-## Citation
-
-If you use this code, please cite our manuscript: [add citation once published]
