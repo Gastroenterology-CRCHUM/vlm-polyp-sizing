@@ -1,0 +1,22 @@
+# Patient/research data — never commit
+data/*
+!data/.gitkeep
+
+example_images/*.jpg
+example_images/*.jpeg
+example_images/*.png
+!example_images/.gitkeep
+
+# Results — not published
+results/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.swp

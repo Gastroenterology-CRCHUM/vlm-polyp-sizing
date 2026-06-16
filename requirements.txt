@@ -1,0 +1,5 @@
+pandas
+ollama
+tqdm
+openpyxl
+torch
