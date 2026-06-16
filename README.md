@@ -37,7 +37,6 @@ data/cropped_5x4_1350x1080/<record_id>/p<polyp_id>/best1/<image>.jpg
 
 Place the three few-shot example images under `example_images/`.
 
-> Note: patient/colonoscopy image data is not included in this repository due to data privacy constraints.
 
 ## Usage
 
